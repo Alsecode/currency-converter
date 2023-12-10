@@ -4,11 +4,13 @@ Web application for currency conversion using APIs RF Central Bank.
 ### Used technoligies
 JS, React, Redux (toolkit), Material UI, i18next, LocalStorage.
 
-Install the dependencies:
+
+
+### Install the dependencies:
 ```
 $ make install
 ```
-Start app:
+### Start app:
 ```
 $ make start
 ```
